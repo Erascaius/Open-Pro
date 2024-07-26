@@ -10,41 +10,40 @@
         <header>
             <nav>
                 <div class="nav__left">
-                    <a href=""><svg></svg></a>
+                    <a href="">
+                        <svg>
+                        </svg>
+                    </a>
                 </div>
                 <div class="nav__Center">
-                    <ul>
-                        <li>
+                        <div>
                             <a href="*">Features</a>
-                        </li>
-                        <li>
+                        </div>
+                        <div>
                             <a href="*">Pricing</a>
-                        </li>
-                        <li>
+                        </div>
+                        <div>
                             <a href="*">Blog</a>
-                        </li>
-                        <li>
+                        </div>
+                        <div>
                             <a href="*">About us</a>
-                        </li>
-                        <li>
+                        </div>
+                        <div>
                             <a href="*">Support</a>
-                            <ul>
+                            <div>
                                 <a href="*">Contact Us</a>
                                 <a href="*">Help Center</a>
                                 <a href="*">404</a>
-                            </ul>
-                        </li>
-                    </ul>
+                            </div>
+                        </div>
                 </div>
                 <div class="nav__right">
-                    <ul>
-                        <li>
-                            <a href="*">Sign In</a>
-                        </li>
-                        <li>
-                            <a href="*">Sign Up</a>
-                        </li>
-                    </ul>
+                    <div>
+                        <a href="*">Sign In</a>
+                    </div>
+                    <div>
+                        <a href="*">Sign Up</a></a>
+                    </div>
                 </div>
             </nav>
             <div>
@@ -52,12 +51,14 @@
                 <h1>Landing Template for startups</h1>
                 <p>our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.</p>
                 <!--fine card ?-->
-                <button type="BottoneFreeTrial"> <!--Type o Class?-->
-                    <a href="http://127.0.0.1:5500/Open-Pro-Project.html">Start Free Trial</a>
-                </button>
-                <button type="BottoneLearnMore">
-                    <a href="http://127.0.0.1:5500/Open-Pro-Project.html">Learn More</a>
-                </button>       
+                <div>
+                    <div>
+                        <a href="*">Start Free Trial</a>
+                    </div>
+                    <div>
+                        <a href="*">Learn More</a>
+                    </div>
+                </div>
                 <iframe src="https://www.youtube.com/watch?v=LZh4ioW31J8" width="600" height="400" frameborder="0"></iframe>
             </div>
          </header>
