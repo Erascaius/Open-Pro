@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <!-- Header (Andrea)-->
+        <header>
+            <nav>
+                <div class="nav__left">
+                    <a href="">
+                        <svg>
+                        </svg>
+                    </a>
+                </div>
+                <div class="nav__Center">
+                        <div>
+                            <a href="*">Features</a>
+                        </div>
+                        <div>
+                            <a href="*">Pricing</a>
+                        </div>
+                        <div>
+                            <a href="*">Blog</a>
+                        </div>
+                        <div>
+                            <a href="*">About us</a>
+                        </div>
+                        <div>
+                            <a href="*">Support</a>
+                            <div>
+                                <a href="*">Contact Us</a>
+                                <a href="*">Help Center</a>
+                                <a href="*">404</a>
+                            </div>
+                        </div>
+                </div>
+                <div class="nav__right">
+                    <div>
+                        <a href="*">Sign In</a>
+                    </div>
+                    <div>
+                        <a href="*">Sign Up</a></a>
+                    </div>
+                </div>
+            </nav>
+            <div>
+                <!-- card ?-->
+                <h1>Landing Template for startups</h1>
+                <p>our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.</p>
+                <!--fine card ?-->
+                <div>
+                    <div>
+                        <a href="*">Start Free Trial</a>
+                    </div>
+                    <div>
+                        <a href="*">Learn More</a>
+                    </div>
+                </div>
+                <iframe src="https://www.youtube.com/watch?v=LZh4ioW31J8" width="600" height="400" frameborder="0"></iframe>
+            </div>
+         </header>
+        <!--Fine Header -->
+        <main>
+            <!-- Section 1 Card(Gian)-->
+            <!--Fine Section 1 -->
+
+            <!-- Section 2 (Ludo)-->
+            <!--Fine Section 2 -->
+
+            <!-- Section 3 2-Card(Gian)-->
+            <!--Fine Section 3 -->
+
+            <!-- Section 4 (Gio)-->
+            <!--Fine Section 4 -->
+
+            <!-- Section 5  3-Card(Gian)-->
+            <!--Fine Section 5 -->
+    
+            <!-- Banner (Ilaria)-->
+            <!--Fine Banner -->
+        </main>
+
+        <!-- Footer (Ilaria)-->
+        <!--Fine Footer -->
+    </body>
+</html>
